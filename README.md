@@ -1,7 +1,3 @@
-#Absolutely! Here’s a professional GitHub README for your Regression Analysis project (Task 1) using the Iris dataset. You can copy this directly into your repository’s README.md.
-
-Suggested Repository Name: iris-regression-analysis
-
 ### 📊 Regression Analysis on Iris Dataset
 
 ### 📖 Project Overview
